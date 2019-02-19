@@ -1,22 +1,5 @@
 /*
 
-	Theme Name: Rooky
-
-	Template URI:
-
-	Description:
-
-	Author:
-
-	Author URI:
-
-	License: GNU General Public License version 3.0
-
-	License URI:
-
-	Version: 1.0
-
-
 
 	1. Header
 
@@ -210,7 +193,7 @@ header[role="header"].header-top .container{ position:absolute; left:0; right:0;
 
 header[role="header"].header-top figure::after{ content:""; position:absolute; left:0; right:0; top:0; bottom:0; background-color:rgba(29,23,36,0.5); z-index:1}
 
-header[role="header"].header-top hgroup h1{ padding:0; margin:0; position:relative; z-index:2}
+header[role="header"].header-top hgroup h1{ padding:0; margin:0; position:relative;z-index:2}
 
 /*===== Nav ===*/
 
@@ -228,7 +211,7 @@ header[role="header"].header-top hgroup nav ul>li>a:focus{color:#FFF;}
 
 
 
-header[role="header"].header-top hgroup.navbar-fixed-top,header[role="header"].header-top hgroup,header[role="header"].header-top hgroup h1,header[role="header"].header-top hgroup h1 img,header[role="header"].header-top hgroup nav ul,header[role="header"].header-top hgroup nav ul > li,.four-box-pan figure,.four-box-pan figure i,.four-box-pan section,.section-two section,.section-two section figure,.section-two section figure>img,.pricing>section input[type="button"],.pricing>section,.team-pan figure,.team-pan figure img,.subscribe-form button,.contact-form input[type="text"],.contact-form input[type="email"],.contact-form textarea,.contact-form input[type="submit"]{transition-delay:0.8s;
+header[role="header"].header-top hgroup.navbar-fixed-top,header[role="header"].header-top hgroup img,header[role="header"].header-top hgroup nav ul,header[role="header"].header-top hgroup nav ul > li,.four-box-pan figure,.four-box-pan figure i,.four-box-pan section,.section-two section,.section-two section figure,.section-two section figure>img,.pricing>section input[type="button"],.pricing>section,.team-pan figure,.team-pan figure img,.subscribe-form button,.contact-form input[type="text"],.contact-form input[type="email"],.contact-form textarea,.contact-form input[type="submit"]{transition-delay:0.8s;
 
 transition-duration: 0.8s;transition-property: all;transition-timing-function: ease;}
 
@@ -238,7 +221,7 @@ header[role="header"].header-top .navbar-fixed-top{background-color:rgba(0,0,0,1
 
 header[role="header"].header-top .navbar-fixed-top .container{ padding-top:0; position:static}
 
-header[role="header"].header-top .navbar-fixed-top h1 img{ width:30%}
+header[role="header"].header-top .navbar-fixed-top img{ width:30%; }
 
 header[role="header"].header-top .navbar-fixed-top nav{ padding-top:7px}
 
@@ -252,7 +235,7 @@ header[role="header"].header-top section h2{ font-size:48px; line-height:50px; f
 
 header[role="header"].header-top section p{ font-size:19px; line-height:20px; font-weight:500; padding-top:15px}
 
-header[role="header"].header-top section a.button-header{ display: inline-block; text-align:center; margin:0 auto; line-height:63px; font-size:16px; font-weight:400; padding:0 53px; color:#FFF; background-color:#6bb551; border-radius:4px; text-transform:uppercase}
+header[role="header"].header-top section a.button-header{ display: inline-block; text-align:center; margin:0 auto; line-height:63px; font-size:16px; font-weight:400; padding:0 53px; color:#FFF; background-color:#6bb551; border-radius:4px; text-transform:uppercase}/
 
 header[role="header"].header-top section a.button-header:hover{background-color:#5ea246; text-decoration:none}
 
