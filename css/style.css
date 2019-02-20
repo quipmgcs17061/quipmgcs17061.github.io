@@ -319,7 +319,7 @@ header[role="title-page"] h2,header[role="title-page"] h2{ color:#000; font-size
 
 .bg-container-youtube{ position:absolute;left: 0px;top: 0px;width: 100%;overflow: hidden;height:528px;}
 
-.video-pan:after{ content:""; position:absolute; left:0; right:0; top:0; height:100%; background-color:rgba(29,23,36,0.9)}
+.video-pan:after{ content:""; position:absolute; left:0; right:0; top:0; height:100%; background-color:rgba(29,23,36,0.5)}
 
 .video-pan header{ position:relative; z-index:2; padding-top:200px}
 
@@ -339,7 +339,7 @@ header[role="title-page"] h2,header[role="title-page"] h2{ color:#000; font-size
 
 .slider-pan section header h5,.slider-pan article header h6{ font-size:15px; line-height:16px; padding:0; margin:0; font-weight:400}
 
-.slider-pan section header h5{ text-transform:uppercase; font-weight:700; color:#000; padding-bottom:8px}
+.slider-pan section header h5{ text-transform:uppercase; font-weight:700; color:green; padding-bottom:8px}
 
 .slider-pan section header{ padding-top:38px;}
 
@@ -361,7 +361,7 @@ header[role="title-page"] h2,header[role="title-page"] h2{ color:#000; font-size
 
 .section-three header[role="title-page"] h4:after{ background-color:#FFF}
 
-.pricing{ text-align:center}
+/* .pricing{ text-align:center}
 
 .pricing>section{ display:inline-block; width:100%; max-width:300px; border:2px solid #FFF; color:#FFF; margin:0 31px; padding-bottom:24px}
 
@@ -383,9 +383,9 @@ header[role="title-page"] h2,header[role="title-page"] h2{ color:#000; font-size
 
 .pricing>section:hover{ background-color:#83c76c;-webkit-transform:scale(1.1);
 
-transform:scale(1.1);}
+transform:scale(1.1);} */
 
-/*== Section Three ==*/
+/*== Section four ==*/
 
 .section-four{margin-top:-90px; padding-top:0px; padding-bottom:102px; background-color:#f7f7f8}
 
